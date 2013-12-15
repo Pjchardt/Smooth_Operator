@@ -18,3 +18,9 @@ Music - Garage Band
 Task Management- Trello
 
 Made for Ludum Dare 28 Compo.  
+
+Links:
+
+[Browser Version](http://supersoul.co/files/Projects/LD28/LD28_13_12_15.html)
+[Ludum Dare Entry Page](http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=13158)
+[Linux Build](http://supersoul.co/files/Projects/LD28/SO_x86_13_12_15.zip)
