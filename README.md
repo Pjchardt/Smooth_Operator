@@ -19,6 +19,8 @@ Task Management- Trello
 
 Made for Ludum Dare 28 Compo.  
 
+Code provided under creative commons license Attribution Non-commercial (by-nc)
+
 Links:
 
 [Browser Version](http://supersoul.co/files/Projects/LD28/LD28_13_12_15.html)
